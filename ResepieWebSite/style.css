@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(55, 34, 14);
+    text-align: center;
+}
+
+body {
+    background-color:rgb(226, 206, 182);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: rgb(67, 37, 7);
+    text-align: center;
+    font-size:25px;
+}
+
+hr {
+    width: 1500px;
+    height: 5px;
+    background-color: rgb(164, 143, 118);
+}
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
